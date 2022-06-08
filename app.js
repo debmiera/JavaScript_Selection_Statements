@@ -107,6 +107,6 @@ switch (sizeId) {
     break;
 } 
 
-alert(`Product: ${size} ${color} ${type}`);
+console.log(`Product: ${size} ${color} ${type}`);
 
 
